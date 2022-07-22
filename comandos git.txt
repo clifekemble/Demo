@@ -1,0 +1,15 @@
+git branch nome_do_brach ---> criar branch
+
+git checkout nome_branch ---> navigate branch
+
+git merge nome nome_branch -----> fazer merge na branch
+
+ls ----> lista 
+
+cat nome_do_arquivo -----> para ver as alterações
+
+git rebase nome_branche --> puxar alteraçãoes feitas em outro branch
+
+touch master.txt ---> criar um novo arquivo
+
+notepad master.txt ---> abreir txt no notepad
